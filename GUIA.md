@@ -7,8 +7,9 @@ ambos programas cumplen su función, son utiles y tienen funcionalidades de sobr
 
 
 ### 📁 windows
-
+entra a https://github.com/subhra74/snowflake/releases/tag/v1.0.4
 
 
 ### 📋 linux
 
+1. entra a tu tienda de apps principal (snap o discover) 
