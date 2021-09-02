@@ -20,3 +20,17 @@ entra a https://github.com/subhra74/snowflake/releases/tag/v1.0.4
 
 ![](https://i.imgur.com/BaTIV1P.png)
 
+1. dale click a "new conection" 
+2. en host introduce la ipv4 de tu vps o dedicado
+3. el usuario debe ser el por defecto (root) y en remote folder selecciona la carpeta de /home 
+4. en password pone tu contraseña (obviamente) y el puerto siempre debe ser 21 o 22
+
+una vez hecho esto ya podrias acceder al panel y al ftp del servidor, puedes también monitorear la carga de cpu, ram y demás en las respectivas pestañas sin tener que usar comandos o tener abierto htop
+
+![](https://i.imgur.com/yxal6ZC.png)
+
+si gustas ver toda la información de tu vps/dedicado puedes ver la sección "linux tools" en la cual puedes ver los puertos abierto y cuales se ejecutan, la cpu, versión del sistema operativo y bastantes datos varios
+
+eso si, recomiendo encarecidamente que la consola la cambien a modo oscuro para no dañarse sus ojos, para esto solo deben ir a la pestaña "console" y en el simbolo del engranaje estará la opción de "console dark mode", con eso activado solo cierran la consola actual y crean una nueva
+
+
