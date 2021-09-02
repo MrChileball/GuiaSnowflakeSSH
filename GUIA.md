@@ -9,7 +9,14 @@ ambos programas cumplen su función, son utiles y tienen funcionalidades de sobr
 ### 📁 windows
 entra a https://github.com/subhra74/snowflake/releases/tag/v1.0.4
 
+1. descarga el archivo .msi y ejecutalo para instalarlo
 
 ### 📋 linux
 
-1. entra a tu tienda de apps principal (snap o discover) 
+1. entra a tu tienda de apps principal (snap o discover) e instala la app
+
+
+## Como logearse en el panel
+
+https://imgur.com/a/Bes4c7q
+
