@@ -33,4 +33,6 @@ si gustas ver toda la información de tu vps/dedicado puedes ver la sección "li
 
 eso si, recomiendo encarecidamente que la consola la cambien a modo oscuro para no dañarse sus ojos, para esto solo deben ir a la pestaña "console" y en el simbolo del engranaje estará la opción de "console dark mode", con eso activado solo cierran la consola actual y crean una nueva
 
+## GALERIA 
 
+![](https://i.imgur.com/GUNWHRG.png)
