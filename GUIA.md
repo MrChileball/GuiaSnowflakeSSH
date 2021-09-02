@@ -36,3 +36,5 @@ eso si, recomiendo encarecidamente que la consola la cambien a modo oscuro para 
 ## GALERIA 
 
 ![](https://i.imgur.com/GUNWHRG.png)
+
+![](https://i.imgur.com/qETLs4Z.png)
