@@ -18,5 +18,5 @@ entra a https://github.com/subhra74/snowflake/releases/tag/v1.0.4
 
 ## Como logearse en el panel
 
-https://imgur.com/a/Bes4c7q
+![](https://imgur.com/a/Bes4c7q)
 
