@@ -38,3 +38,6 @@ eso si, recomiendo encarecidamente que la consola la cambien a modo oscuro para 
 ![](https://i.imgur.com/GUNWHRG.png)
 
 ![](https://i.imgur.com/qETLs4Z.png)
+
+
+EDIT/POSDATA: después de usar snowflake algunos días me dí cuenta de que el programa no guarda las modificaciones a los archivos a menos que uses el editor incorporado y tiene algunos problemas con el ftp (seguramente cosa mía) por lo demás la consola y el monitoreo de datos además de las otras herramientas funciona todo bien, el programa de todas formas sirve para monitorear recursos y para el terminal
